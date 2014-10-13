@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+--Whenever you're working with a group or from multiple computers, having an online repository that you can sync with is very helpful.

@@ -1,0 +1,2 @@
+How can you use the staging area to make sure you have one commit per logical change?
+It's kind of like a space where you can test out what you plan to finally commit; you can use diff --staged to see the difference.
